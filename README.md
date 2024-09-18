@@ -5,6 +5,7 @@ Hagit T. Porath1, Shai Carmi2, Erez Y. Levanon1
 1 The Mina and Everard Goodman Faculty of Life Sciences, Bar-Ilan University, Ramat-Gan, 5290002, Israel
 2 Department of Computer Science, Columbia University, New York, NY 10027, USA
 Correspondence should be addressed to E.Y.L. (Erez.Levanon@biu.ac.il)
+https://www.nature.com/articles/ncomms5726
 
 Running of hyper_editing scripts
 for detection of hyper editing in RNA-Seq datasets (fastq files):
